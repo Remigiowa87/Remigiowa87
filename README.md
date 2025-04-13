@@ -8,7 +8,7 @@ I am passionate about optimizing business processes and automation. Skilled in d
 - 🖥️  See my portfolio at [MyPortfolio](http://wasiakremigiusz.netlify.app)
 - ✉️  You can contact me at [wasiak.r.contact@gmail.com](mailto:wasiak.r.contact@gmail.com)
 
-### Skills
+### Tools & Technologies
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" /></a>
@@ -33,6 +33,11 @@ I am passionate about optimizing business processes and automation. Skilled in d
 
 </p>
 
-### Socials
+### Get in Touch
 
-<p align="left"> <a href="https://www.linkedin.com/in/wasiak-remigiusz/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/wasiak-remigiusz/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+<a href="mailto:wasiak.r.contact@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="32" height="32" alt="Gmail" />
+</a>
+
+</p>
