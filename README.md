@@ -7,7 +7,6 @@ I am passionate about optimizing business processes and automation. Skilled in d
 - 🌍  I'm based in Poland
 - 🖥️  See my portfolio at [MyPortfolio](http://wasiakremigiusz.netlify.app)
 - ✉️  You can contact me at [wasiak.r.contact@gmail.com](mailto:wasiak.r.contact@gmail.com)
-  s
 
 ### Skills
 
